@@ -1,4 +1,4 @@
-# Series Queues with infinite capacity - Open Jackson Network
+# EX.6 Series Queues with infinite capacity - Open Jackson Network
 # Date:26.11.2024
 
 ## Aim :
